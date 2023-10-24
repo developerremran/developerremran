@@ -1,6 +1,7 @@
-<div style="width: 150px; height: 150px; display: flex; justify-content: center; align-items: center;">
+<div align="center">
     <img width="150px" height="150px" style="border-radius: 50%;" src="https://i.ibb.co/qjCL4Jd/emran.jpg" alt="Emran's Image">
 </div>
+
 
 <h1 align="center">Hi 👋, I'm Emran Hossain</h1>
 <h3 align="center">I am MERN Stack Jr. Developer</h3>
