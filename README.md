@@ -1,3 +1,6 @@
+<div>
+  <img src="https://i.ibb.co/qjCL4Jd/emran.jpg"/>
+</div>
 <h1 align="center">Hi 👋, I'm Emran Hossain</h1>
 <h3 align="center">I am MERN Stack Jr. Developer</h3>
 
